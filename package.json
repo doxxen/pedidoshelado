@@ -8,8 +8,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@geist-ui/core": "^2.3.8",
     "google-spreadsheet": "^3.2.0",
     "googleapis": "^94.0.0",
+    "headlessui": "^0.0.0",
     "next": "12.0.10",
     "react": "17.0.2",
     "react-dom": "17.0.2"
